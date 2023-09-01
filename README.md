@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JVRodrigues7
 - 👀 I’m interested in learn new stuff and grow my career
-- 🌱 I’m currently learning ... I guess I'll try React ⚛️
+- 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on any project I can haha
 - 📫 How to reach me:
       🐦 @JVRodrigues97
