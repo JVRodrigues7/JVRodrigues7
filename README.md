@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on any project I can
 - 📫 How to reach me:
-      🐦 @JVRodrigues97
-      📷 @JVRodrigues7
+      📷 [@JVRodrigues7](https://www.instagram.com/jvrodrigues7)
       📧 joaojvr7@gmail.com
 
 <!---
