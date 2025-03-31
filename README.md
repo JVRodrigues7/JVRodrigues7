@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JVRodrigues7
 - 👀 I’m interested in learn new stuff and grow my career
 - 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on any project I can haha
+- 💞️ I’m looking to collaborate on any project I can
 - 📫 How to reach me:
       🐦 @JVRodrigues97
       📷 @JVRodrigues7
